@@ -61,7 +61,6 @@
 
 ### Git
 
-* [Aprendendo Git](http://www.slideshare.net/bismarckjunior/aprendendo-git)
 * [Git - guia prático](http://rogerdudler.github.io/git-guide/index.pt_BR.html)
 * [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/pt_br/)
 * [Minicurso - Controle de Versão usando o Git](https://github.com/ltiaunesp/Git-Minicurso) - LTIA UNESP
@@ -98,6 +97,7 @@
 
 * [Eloquente Javascript](https://github.com/braziljs/eloquente-javascript)
 * [EXPERT JS Stack](http://stack.desenvolvedor.expert)
+* [Guia JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide)
 * [JavaScript Frameworks/Bibliotecas e Livros](javascript-frameworks-resources-pt_BR.md)
 * [JS: A forma certa](http://jstherightway.org/pt-br/)
 
